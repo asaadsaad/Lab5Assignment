@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson5Assignment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Cups Converter</string>
+    <string name="cupsInput">Cups</string>
+    <string name="calculateButton">Convert</string>
+    <string name="tablespoonsOutput">0 tablespoons</string>
+    <string name="teaspoonsOutput">0 teaspoons</string>
+</resources>
